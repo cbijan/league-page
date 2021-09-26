@@ -7,6 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
+  <p>Welcome to DieNa$ty, a part of the Amato League Network. You will only find the best and most serious nerds in this league. Ranging from software nerds like bluespirit to tanking nerds like ajnez.</p>
   <p>Elijah Moore WR1!</p>
   `;
 
