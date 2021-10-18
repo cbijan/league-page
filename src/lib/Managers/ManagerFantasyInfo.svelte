@@ -197,7 +197,7 @@
     {#if viewManager.valuePosition}
         <div class="infoSlot">
             <div class="infoLabel">
-                Favorite Fantasy Asset
+                Favorite Position
             </div>
             <div class="infoIcon {viewManager.valuePosition}">
                 <span class="valuePosition">{viewManager.valuePosition}</span>
