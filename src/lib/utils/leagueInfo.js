@@ -26,7 +26,7 @@ export const managers = [
       "name": "Zaino",
       //"tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Sleeper HQ", // (optional)
-      "bio": "Zaino is a diehard fantasy football player with scorching hot takes that often end in him being roasted in the group chat. He rebuilded to create an extremely solid team after drafting JuJu in the first of the start-up. Unfortunately his team has died, and refuse to score points together.",
+      "bio": "Lorem ipsum...",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2012, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "min", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
