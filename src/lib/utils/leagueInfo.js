@@ -26,7 +26,7 @@ export const managers = [
       "name": "Zaino",
       //"tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Sleeper HQ", // (optional)
-      "bio": "Zaino is a diehard fantasy football player with scorching hot takes that often end in him being roasted in the group chat. He rebuilded to create an extremely solid team after drafting JuJu in the first of the start-up. Unfortunately his team has died, and refuse to score points together. ",
+      "bio": "Zaino is a diehard fantasy football player with scorching hot takes that often end in him being roasted in the group chat. He rebuilded to create an extremely solid team after drafting JuJu in the first of the start-up. Unfortunately his team has died, and refuse to score points together.",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2012, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "min", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -193,7 +193,7 @@ export const managers = [
       "favoritePlayer": 5937, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Rebuilding only works if you win ",
+      "philosophy": "Rebuilding only works if you win",
       "tradingScale": 9, // 1 - 10
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
